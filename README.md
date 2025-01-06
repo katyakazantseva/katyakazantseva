@@ -1,16 +1,13 @@
-## Hi there 👋
 
-<!--
-**katyakazantseva/katyakazantseva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Katya! 👋
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🧠 I'm currently studying at both School 21 and Kazan Federal University
+
+📫 How to reach me: katya.kazantseva.04@list.ru
+
+
+
+### 🛠 Skills
+C++, C, SQL, Linux, Python
